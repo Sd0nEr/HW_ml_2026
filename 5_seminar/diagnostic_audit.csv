@@ -1,6 +1,6 @@
 file,status,message,sample_rate,samples,windows,inner,outer,roller
 Подшипник_0.wav,error,файл не найден,,,,,,
-Подшипник_.wav,error,File format b'\x89PNG' not understood. Only 'RIFF' and 'RIFX' supported.,,,,,,
+Подшипник_.wav,error,"File format b'\x89PNG' not understood. Only 'RIFF', 'RIFX', and 'RF64' supported.",,,,,,
 Подшипник_чд.wav,error,"Ожидалось 10000 Гц, получено 42000 Гц",,,,,,
 Подшипник_1.wav,ok,обработан,10000.0,120000.0,117.0,0.2,0.1,0.4
 Подшипник_2.wav,ok,обработан,10000.0,120000.0,117.0,0.2,0.1,8.4
